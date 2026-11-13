@@ -1,0 +1,10 @@
+{
+  "name": "r34-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@vercel/functions": "^2.0.0"
+  }
+}
